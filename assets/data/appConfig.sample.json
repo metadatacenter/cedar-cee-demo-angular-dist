@@ -1,10 +1,15 @@
 {
   "ceeConfig": {
-    "sampleTemplateLocationPrefix": "https://component.metadatacenter.orgx/cedar-embeddable-editor-sample-templates/",
-    "showSampleTemplateLinks": true,
+    "sampleTemplateLocationPrefix": "https://component.metadatacenter.org/cedar-embeddable-editor-sample-templates/",
     "loadSampleTemplateName": "01",
 
-    "terminologyProxyUrl": "https://api-php.cee.metadatacenter.orgx/index.php",
+    "showSampleTemplateLinks": true,
+    "expandedSampleTemplateLinks": true,
+
+    "showFooter": true,
+    "showHeader": true,
+
+    "terminologyProxyUrl": "https://api-php.cee.metadatacenter.org/index.php",
 
     "showTemplateRenderingRepresentation": true,
     "showMultiInstanceInfo": true,
